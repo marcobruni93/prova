@@ -1,0 +1,26 @@
+<DOCTYPE html>
+<html lang="it">
+<head>
+<title>elenchi puntati e numerati</title>
+<meta charset="utf-8">
+<head>
+
+<body>
+<ul>
+<li><h1>grande</h1></li>
+<ol>
+<li>piccolo</li>
+</ol>
+<ul>
+<li><h3>medio</h3></li>
+<ol>
+<h2><li><h6>numero grande e scritta piccola</h6></li></h2>
+</ol>
+</ul>
+<a href="https://www.google.it/"><li>link</a>
+</ul>
+
+</body>
+
+
+</html>
